@@ -16,7 +16,7 @@ db.movies.estimatedDocumentCount()
 //     {_id: 1, title: 1, genre: 1, year: 1, countries: 1, runtime: 1, languages: 1}
 // )
 
-// Query 1. Get list of theatres in a certain city.
-// Query 2. Get movies with greater than or equal to rating n.
-// Query 3. Get user with a session.
-// Query 4. Count comments for each user.
+// Query 2. Get list of theatres in a certain city.
+// Query 3. Get movies with greater than or equal to rating n.
+// Query 4. Get user with a session.
+// Query 5. Count comments for each user.
